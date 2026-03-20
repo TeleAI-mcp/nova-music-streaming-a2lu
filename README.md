@@ -1,2 +1,3 @@
-# nova-music-streaming-a2lu
+# Nova Music Streaming A2Lu
+
 A repository to test GitHub automation for issue management.
